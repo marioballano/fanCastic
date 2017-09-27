@@ -6,7 +6,7 @@ class ChannelParser(QtCore.QThread):
 
   newChannel = QtCore.pyqtSignal(object)
   cannotRetrieveChannels = QtCore.pyqtSignal()
-  default_uri = 'http://localhost:8000/channels.json'
+  default_uri = 'https://raw.githubusercontent.com/marioballano/fanCastic/master/cfg/channels.json'
 
   def __init__(self,uri):
     super(ChannelParser, self).__init__()
