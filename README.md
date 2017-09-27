@@ -4,7 +4,7 @@ fanCastic is a simple PyQt5 application that streams TV channels to Chromecast d
 
 # usage
 
-fanCastic can either use a local tv channels config file from the command line:
+fanCastic can either consume a local tv channels config file from the command line:
 
     $ ./fancastic.pyw <config-file>
 
