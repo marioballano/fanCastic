@@ -1,3 +1,4 @@
+import utils
 from channels import *
 from chromecast import *
 from flowlayout import FlowLayout
@@ -7,7 +8,7 @@ class MainWindow(QtWidgets.QMainWindow):
 
   def __init__(self,args=None):
     super(MainWindow, self).__init__()
-    uic.loadUi('mainwindow.ui', self)
+    uic.loadUi(utils.get_file('mainwindow.ui'), self)
     self.show()
     self.args = args
     self.scan_button = self.findChild(QtWidgets.QPushButton, "scanButton")
