@@ -28,5 +28,5 @@ exe = EXE(pyz,
           console=False )
 app = BUNDLE(exe,
              name='fancastic.app',
-             icon=None,
+             icon='../assets/icon.icns',
              bundle_identifier=None)
