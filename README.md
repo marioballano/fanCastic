@@ -8,11 +8,11 @@ fanCastic can either use a local tv channels config file from the command line:
 
     $ ./fancastic.pyw <config-file>
 
-or use the default configuration file (channels.json), which is retrieved from github upon launching the app, feel free to send pull requests to add new channels :)
+or use the default configuration file ([channels.json](https://github.com/marioballano/fanCastic/blob/master/cfg/channels.json)), which is retrieved from github upon launching the app, feel free to send pull requests to add new channels :)
 
 # builds 
 
-I have generated an OSX build that does not require any additional dependencies, you can grab a copy from here:.
+I have generated an OSX build that does not require any additional dependencies, you can grab a copy from [here](https://github.com/marioballano/fanCastic/releases/tag/v0.1)
 
 # screenshots
 
