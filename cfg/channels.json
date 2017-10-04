@@ -5,6 +5,21 @@
       "icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/196px-TV3.svg.png"
    },
    {
+      "name":"Notícies 3/24",
+      "stream":"http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8",
+      "icon":"https://upload.wikimedia.org/wikipedia/en/4/4e/Canal_3_24.jpg"
+   },
+   {
+      "name":"Esport3",
+      "stream":"http://ccma-tva-cat-abertis-live.hls.adaptive.level3.net/cat/ngrp:es3_web/playlist.m3u8",
+      "icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/165px-Esport3.svg.png"
+   },
+   {
+      "name":"Super3",
+      "stream":"http://ccma-tva-cat-abertis-live.hls.adaptive.level3.net/cat/ngrp:c33_web/playlist.m3u8",
+      "icon":"https://upload.wikimedia.org/wikipedia/ca/2/2b/Canal-Super3_logo2009.png"
+   },
+   {
       "name":"Teledeporte",
       "stream":"http://hlsackdn_gl1-lh.akamaihd.net/i/hlsdvrlive_1@137561/master.m3u8",
       "icon":"https://upload.wikimedia.org/wikipedia/en/f/ff/Teledeporte.png"
